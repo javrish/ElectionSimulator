@@ -1,0 +1,4 @@
+High level Plans:
+  Covert the project to gradle.
+  Create endpoints for the project.
+  Create Front-End.
